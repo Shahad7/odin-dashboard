@@ -1,1 +1,1 @@
-# odin-dashboard.com
+# odin-dashboard
